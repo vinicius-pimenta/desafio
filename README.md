@@ -43,6 +43,11 @@ $ sudo docker-compose up --build --force-recreate
 # DELETE -> http://localhost:8080/api/usuario/:id
 ```
 
+## :twisted_rightwards_arrows: Referências
+-  https://www.youtube.com/watch?v=HR5Np1HmC7c&t=1335s
+-  https://www.youtube.com/watch?v=OHn1jLHGptw
+-  https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
+
 ## :memo: Licença
 Esse projeto está sob a licença MIT. Veja a [LICENÇA](./LICENSE) para mais informação.
 
