@@ -1,0 +1,13 @@
+br/com/rodrigorahman/springbootcommysql/model/Usuario.class
+br/com/rodrigorahman/springbootcommysql/controller/CargoController.class
+br/com/rodrigorahman/springbootcommysql/repository/PerfilRepository.class
+br/com/rodrigorahman/springbootcommysql/controller/PerfilController.class
+br/com/rodrigorahman/springbootcommysql/repository/UsuarioRepository.class
+br/com/rodrigorahman/springbootcommysql/config/CorsConfig$1.class
+br/com/rodrigorahman/springbootcommysql/repository/CargoRepository.class
+br/com/rodrigorahman/springbootcommysql/model/Perfil.class
+br/com/rodrigorahman/springbootcommysql/config/CorsConfig.class
+br/com/rodrigorahman/springbootcommysql/model/Pessoa.class
+br/com/rodrigorahman/springbootcommysql/model/Cargo.class
+br/com/rodrigorahman/springbootcommysql/controller/UsuarioController.class
+br/com/rodrigorahman/springbootcommysql/SpringBootComMysqlApplication.class
